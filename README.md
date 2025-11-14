@@ -1,4 +1,4 @@
-# 🚀 Developer Gem | Full Stack & Web3 CV Template
+# 🚀 Sergio Torres | Quimico Programador
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
