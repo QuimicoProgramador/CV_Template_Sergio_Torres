@@ -44,11 +44,11 @@ function App() {
       <header style={contactInfoStyle}>
         <h1 style={{ margin: "0 0 10px 0", fontSize: "2em" }}>
           {/* RELLENAR: Tu Nombre Completo */}
-          Sergio Torres - Quimico Programador
+          Sergio Roberto Torres - Quimico | Seg & Hig | Programador
         </h1>
         <p style={{ margin: "0" }}>
           {/* RELLENAR: Título Profesional o Puesto Deseado */}
-          Licenciado en seguridad e higiene laboral | phyton + n8n | Desarrollador
+          Tecnico Quimico | Tecnico en Seg & Hig | phyton + n8n | Desarrollador
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
@@ -61,11 +61,10 @@ function App() {
         <h2 style={sectionTitleStyle}>Resumen Profesional</h2>
         <p>
           {/* RELLENAR: Breve resumen que destaca tus habilidades clave */}
-          Ingeniero de software Full Stack especializado en desarrollo **Web 2 &
-          3**, certificado en Ethereum (Alchemy) y con experiencia en
-          ecosistemas **Polygon**, **Algorand** y **Chainlink**. Experiencia en
-          metodologías **Agile** y conocimientos en **Microsoft Azure IA** y
-          **Ciberseguridad**.
+          Poseo mas de 30 Años en Control y Gestion de la calidad
+          como responsable de los sectores y como responsable de seg & Hig
+          En el area informatica como especialista en paq Office y programador
+          Actualmente capacitandome en programacion Python y N8N.
         </p>
       </section>
 
@@ -75,7 +74,7 @@ function App() {
         <article style={{ marginBottom: "15px" }}>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Puesto - Empresa */}
-            Full Stack Developer - Empresa XYZ
+            Jefe de calidad - Empresa: Playco SA
           </div>
           <div
             style={{
@@ -85,12 +84,12 @@ function App() {
             }}
           >
             {/* RELLENAR: Fechas y Ubicación */}
-            Enero 2023 - Presente | Remoto
+            Julio 2324 - Presente | Presencial
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
               {/* RELLENAR: Responsabilidad/Logro 1 */}Desarrollo y
-              mantenimiento de aplicaciones **React.js** y APIs Node.js/Express.
+              responsable de calidad y gestion y mantenimiento de sistemas.
             </li>
             <li>
               {/* RELLENAR: Responsabilidad/Logro 2 */}Implementación de
