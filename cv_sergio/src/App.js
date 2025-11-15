@@ -52,7 +52,7 @@ function App() {
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
-          email@ejemplo.com | +54 9 11 XXXX-XXXX | linkedin.com/in/tuperfil
+          sergiot1972@hotmail.com | +54 9 11 2489-1043 | linkedin.com/in/tuperfil
         </p>
       </header>
 
