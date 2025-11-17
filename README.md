@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[🚀 Ver CV en Vivo (Netlify)](https://cvte.netlify.app/)
+[🚀 Ver CV en Vivo (Netlify)](cv-sergio-torres.netlify.app)
 
 Este repositorio contiene un *template* de Curriculum Vitae desarrollado con **React.js**. Está diseñado para ser un sitio web estático y fácilmente desplegable, ideal para desarrolladores Full Stack y Web3 que deseen presentar sus habilidades de forma interactiva y profesional.
 
