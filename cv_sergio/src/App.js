@@ -103,15 +103,7 @@ function App() {
             }}
           >
             {/* RELLENAR: Fechas y Ubicación */}
-<<<<<<< HEAD
-<<<<<<< HEAD
-            Julio 2024 - Presente | Presencial
-=======
             Julio 2324 - Presente | Presencial
->>>>>>> e7a6076f0d1e2aca1b9e8f43251f59f62d10c47a
-=======
-            Julio 2025 - Presente | Presencial
->>>>>>> 97d62fa3b0cd607a5816034d9e372d784d9d1f71
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
