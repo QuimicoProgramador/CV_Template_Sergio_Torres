@@ -60,7 +60,7 @@ function App() {
         </p>
         <p style={{ margin: "5px 0 0 0", fontSize: "0.9em" }}>
           {/* RELLENAR: Email | Teléfono | LinkedIn | GitHub | Portfolio */}
-          sergiot1972@hotmail.com | +54 9 11 2489-1043 | linkedin.com/in/tuperfil
+          sergiot1972@hotmail.com | +54 9 11 2489-1043 
         </p>
       </header>
 
@@ -107,16 +107,16 @@ function App() {
           </div>
           <ul style={{ paddingLeft: "20px", margin: "0" }}>
             <li>
-              {/* RELLENAR: Responsabilidad/Logro 1 */}Desarrollo y
-              responsable de calidad y gestion y mantenimiento de sistemas.
+              {/* RELLENAR: Responsabilidad/Logro 1 */}Responsable 
+              en los sectores de control de calidad y gestion de calidad
             </li>
             <li>
               {/* RELLENAR: Responsabilidad/Logro 2 */}Implementación de
-              contratos inteligentes en **Ethereum** y **Polygon**.
+              Control de seguridad e higiene de laboratorios **COSMETICOS**.
             </li>
             <li>
-              {/* RELLENAR: Responsabilidad/Logro 3 */}Integración con servicios
-              de **Chainlink** para datos *on-chain*.
+              {/* RELLENAR: Responsabilidad/Logro 3 */}Responsable del
+              sector sistema informaticos de la empresa*.
             </li>
           </ul>
         </article>
@@ -128,20 +128,19 @@ function App() {
         <h2 style={sectionTitleStyle}>Habilidades</h2>
         <p>
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Web/Blockchain:
+            Analista de laboratorio:
           </strong>{" "}
-          React.js, JavaScript (ES6+), HTML, CSS, Node.js, Ethereum (Solidity),
-          Polygon, Algorand, Chainlink, DeFi, Web3.js, Ethers.js.
+          analisis de materias primas, aguas y productos terminados.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Cloud/IA/Seguridad:
+            Seguridad e higiene:
           </strong>{" "}
-          Microsoft Azure IA, Microsoft Cybersecurity, Docker, Git.
+          Conocimiento de seguridad en productos quimicos.
           <br />
           <strong style={{ display: "block", marginBottom: "5px" }}>
-            Metodologías:
+            Informatica:
           </strong>{" "}
-          Agile, Scrum, Coaching.
+          Especialista en Office.
         </p>
       </section>
 
@@ -151,7 +150,7 @@ function App() {
         <article>
           <div style={itemHeaderStyle}>
             {/* RELLENAR: Nombre del Título - Institución */}
-            Oficial Alchemy Certified Ethereum Developer - Alchemy University
+            Titulo de tecnico quimico Industrial 
           </div>
           <div style={{ fontStyle: "italic", fontSize: "0.9em" }}>
             {/* RELLENAR: Año de Graduación */}
